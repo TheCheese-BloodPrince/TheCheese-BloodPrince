@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheCheese-BloodPrince
-- 👀 I’m interested in ... coding and transportation(mainly airplanes and rail transport)
+- 👀 I’m interested in ... linux
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... oh no you dont
